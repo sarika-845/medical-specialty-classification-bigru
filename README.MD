@@ -12,6 +12,10 @@ In this project, I built an NLP classification model that learns patterns from m
 
 The model uses an **Embedding layer followed by a Bidirectional GRU**, making it capable of understanding information from both directions of a text sequence.
 
+ LIVE DEMO :
+https://medical-specialty-classification-bigru-ka73gce7t98jq7t7zthhmj.streamlit.app/
+
+
 ## How It Works
 
 The application follows a simple pipeline:
